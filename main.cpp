@@ -260,7 +260,3 @@ int main(){
  
  
 }
-Colored by Color Scripter
-
-
-출처: https://banana-media-lab.tistory.com/entry/C로-만드는-multilayer-perceptron-MLP [Banana Media Lab]
